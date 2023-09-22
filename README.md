@@ -49,6 +49,6 @@ Currently, I'm diving deeper into JavaScript frameworks and libraries like React
 
 ## 🌐 Let's Connect
 
-I am open to collaboration, feel free to get in touch. You can reach me on Discord at `peterjung7418#1814` or `facebook.org`.
+I am open to collaboration, feel free to get in touch. You can reach me on Discord at `peterjung7418#1814` or `its.hotaro`.
 
 Remember, "Learning never exhausts the mind." - Leonardo da Vinci
