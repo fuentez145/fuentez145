@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Fuentes</h1>
 <h3 align="center">A passionate self-taught web developer expanding my expertise in Web Development.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuentez145" alt="fuentez145" /></a> </p>
 
 I am passionate about learning new technologies and am eager to contribute to open-source projects. 
 
