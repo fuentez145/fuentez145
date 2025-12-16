@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuentez145&label=Profile%20views&color=0e75b6&style=flat" alt="fuentez145" /> </p>
 
-<h1 align="center">Hi 👋, I'm Fuentes</h1>
+<h1 align="center">Hi 👋, I'm Kaede</h1>
 <h3 align="center">A passionate self-taught web developer expanding my expertise in Web Development.</h3>
 
 
